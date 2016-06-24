@@ -1,0 +1,11 @@
+name: jupyter-demo
+dependencies:
+- ipykernel=4.3.1
+- ipython=4.2.0
+- ipywidgets=4.1.1
+- matplotlib=1.5.1
+- notebook=4.2.1
+- numpy=1.11.0
+- pandas=0.18.1
+- python=3.5
+- seaborn=0.7.0
